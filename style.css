@@ -25,5 +25,5 @@ div img{
 }
 div img:hover{
     filter:grayscale(1);
-    transform: scale(1.08);
+    transform: scale(1.07);
 }
